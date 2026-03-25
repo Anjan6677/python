@@ -180,11 +180,7 @@ By the end of this course, you will be able to:
 
 ---
 
-## 📞 Support & Community
 
-- **Course Platform**: [hitesh.ai](https://hitesh.ai)
-- **Instructor**: Hitesh Choudhary
-- **Community**: Join the course community for discussions and support
 
 ---
 
