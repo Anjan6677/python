@@ -2,8 +2,6 @@
 
 **Master Python from Basics to Advanced with Real-World Projects**
 
-> **Course Link**: [hitesh.ai](https://hitesh.ai)  
-> **Instructor**: Hitesh Choudhary
 
 ---
 
